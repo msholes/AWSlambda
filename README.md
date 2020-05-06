@@ -1,3 +1,2 @@
-# AWSlambda
-AWS lambda Sentiment
+# AWS-lambda
 ![](AWS50.jpg)
