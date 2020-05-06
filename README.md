@@ -1,3 +1,3 @@
 # AWSlambda
 AWS lambda Sentiment
-![](AWSlambda/filename/AWS50.jpg)
+![](AWS50.jpg)
